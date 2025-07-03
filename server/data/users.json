@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799439011",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "123456",
+    "role": "admin",
+    "bio": "Full-stack developer with a passion for creating elegant solutions to complex problems. Specialized in modern web technologies and user experience design.",
+    "title": "Full-Stack Developer",
+    "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Python", "Docker"],
+    "socialLinks": {
+      "github": "https://github.com/johndoe",
+      "linkedin": "https://linkedin.com/in/johndoe",
+      "twitter": "https://twitter.com/johndoe",
+      "website": "https://johndoe.com"
+    }
+  }
+]

@@ -1,12 +1,32 @@
 import React from 'react';
+import Aurora from './Aurora';
+import Iridescence from './Iridescence';
 
 const BackgroundSVG = () => {
   return (
-    <svg 
-      className="absolute inset-0 w-full h-full z-0 opacity-30" 
-      viewBox="0 0 1000 1000" 
-      xmlns="http://www.w3.org/2000/svg"
-    >
+    <div className="absolute inset-0 w-full h-full z-0">
+      {/* Aurora Background Effect */}
+      <Aurora
+        colorStops={["#3A29FF", "#FF94B4", "#FF3232"]}
+        blend={0.5}
+        amplitude={1.0}
+        speed={0.5}
+      />
+      
+      {/* Iridescence Effect */}
+      <Iridescence
+        color={[1, 1, 1]}
+        mouseReact={false}
+        amplitude={0.1}
+        speed={1.0}
+      />
+      
+      {/* SVG Overlay */}
+      <svg 
+        className="absolute inset-0 w-full h-full opacity-30" 
+        viewBox="0 0 1000 1000" 
+        xmlns="http://www.w3.org/2000/svg"
+      >
       <defs>
         <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
           <stop offset="0%" stopColor="#3B82F6" stopOpacity="0.2" />
@@ -60,6 +80,7 @@ const BackgroundSVG = () => {
         ))}
       </g>
     </svg>
+    </div>
   );
 };
 

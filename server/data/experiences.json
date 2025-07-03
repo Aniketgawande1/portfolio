@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Senior Frontend Developer",
+    "company": "Tech Innovations Inc.",
+    "location": "San Francisco, CA",
+    "employmentType": "Full-time",
+    "startDate": "2021-01-15",
+    "current": true,
+    "description": "Leading the frontend development team in building modern web applications with React and Next.js. Responsible for architecture decisions, code reviews, and mentoring junior developers.",
+    "responsibilities": [
+      "Lead frontend architecture and design decisions",
+      "Mentor and guide junior developers",
+      "Conduct thorough code reviews",
+      "Collaborate with UX/UI designers and backend developers",
+      "Optimize application performance and user experience",
+      "Implement modern development practices and workflows"
+    ],
+    "achievements": [
+      "Improved application performance by 40% through code splitting and optimization",
+      "Led migration from legacy React class components to modern hooks",
+      "Established comprehensive testing practices increasing code coverage to 90%",
+      "Mentored 5 junior developers who were promoted within the team"
+    ],
+    "technologies": ["React", "Next.js", "TypeScript", "GraphQL", "Jest", "Cypress"],
+    "skills": ["Team Leadership", "Code Review", "Performance Optimization", "Mentoring"],
+    "companyWebsite": "https://techinnovations.com",
+    "order": 1,
+    "user": "507f1f77bcf86cd799439011"
+  },
+  {
+    "title": "Full-Stack Developer",
+    "company": "Digital Solutions Co.",
+    "location": "Austin, TX",
+    "employmentType": "Full-time",
+    "startDate": "2018-06-01",
+    "endDate": "2020-12-31",
+    "current": false,
+    "description": "Developed full-stack applications using MERN stack. Focused on building scalable web applications and improving system performance through various optimizations.",
+    "responsibilities": [
+      "Develop full-stack web applications using MERN stack",
+      "Design and implement RESTful APIs",
+      "Optimize database queries and application performance",
+      "Collaborate with cross-functional teams",
+      "Participate in agile development processes",
+      "Write comprehensive unit and integration tests"
+    ],
+    "achievements": [
+      "Improved system performance by 40% through database and code optimizations",
+      "Developed 3 major client projects that generated $500K+ in revenue",
+      "Implemented automated testing pipeline reducing bugs by 60%",
+      "Created reusable component library used across multiple projects"
+    ],
+    "technologies": ["MongoDB", "Express.js", "React", "Node.js", "Redux", "AWS"],
+    "skills": ["Full-Stack Development", "API Design", "Database Optimization", "Agile Methodologies"],
+    "companyWebsite": "https://digitalsolutions.co",
+    "order": 2,
+    "user": "507f1f77bcf86cd799439011"
+  },
+  {
+    "title": "Web Developer",
+    "company": "Creative Web Agency",
+    "location": "Denver, CO",
+    "employmentType": "Full-time",
+    "startDate": "2016-03-01",
+    "endDate": "2018-05-31",
+    "current": false,
+    "description": "Created responsive websites and web applications for various clients across different industries. Worked closely with designers to implement pixel-perfect designs and ensure cross-browser compatibility.",
+    "responsibilities": [
+      "Develop responsive websites and web applications",
+      "Collaborate with designers to implement UI/UX designs",
+      "Ensure cross-browser compatibility and accessibility",
+      "Optimize websites for search engines and performance",
+      "Maintain and update existing client websites",
+      "Provide technical support and training to clients"
+    ],
+    "achievements": [
+      "Successfully delivered 20+ client projects on time and within budget",
+      "Improved average website load times by 50% through optimization techniques",
+      "Increased client retention rate by 30% through excellent support",
+      "Established best practices for responsive design across the agency"
+    ],
+    "technologies": ["HTML5", "CSS3", "JavaScript", "jQuery", "PHP", "WordPress"],
+    "skills": ["Responsive Design", "Cross-browser Compatibility", "SEO Optimization", "Client Communication"],
+    "companyWebsite": "https://creativewebagency.com",
+    "order": 3,
+    "user": "507f1f77bcf86cd799439011"
+  }
+]

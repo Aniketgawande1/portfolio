@@ -1,0 +1,110 @@
+[
+  {
+    "title": "AI Content Generator",
+    "description": "An AI-powered application that generates high-quality content for websites and social media. Built with React and OpenAI API, featuring real-time content generation, customizable templates, and export functionality.",
+    "shortDescription": "AI-powered content generation tool with React and OpenAI integration",
+    "technologies": ["React", "Node.js", "OpenAI API", "Express", "MongoDB"],
+    "category": "Web Development",
+    "status": "Completed",
+    "featured": true,
+    "demoUrl": "https://ai-content-generator.demo.com",
+    "githubUrl": "https://github.com/johndoe/ai-content-generator",
+    "challenges": [
+      "Integrating OpenAI API efficiently",
+      "Managing rate limits and costs",
+      "Creating intuitive user interface"
+    ],
+    "solutions": [
+      "Implemented smart caching system",
+      "Added request queuing mechanism",
+      "Designed progressive disclosure UI"
+    ],
+    "learnings": [
+      "Advanced API integration techniques",
+      "Cost optimization strategies",
+      "AI prompt engineering"
+    ],
+    "user": "507f1f77bcf86cd799439011"
+  },
+  {
+    "title": "E-Commerce Platform",
+    "description": "A full-featured e-commerce solution with payment integration, inventory management, and admin dashboard. Built with Next.js for optimal performance and SEO.",
+    "shortDescription": "Full-stack e-commerce platform with Next.js and Stripe integration",
+    "technologies": ["Next.js", "MongoDB", "Stripe", "Tailwind CSS", "Vercel"],
+    "category": "Web Development",
+    "status": "Completed",
+    "featured": true,
+    "demoUrl": "https://ecommerce-platform.demo.com",
+    "githubUrl": "https://github.com/johndoe/ecommerce-platform",
+    "challenges": [
+      "Complex state management",
+      "Payment processing security",
+      "Performance optimization"
+    ],
+    "solutions": [
+      "Implemented Redux Toolkit",
+      "Used Stripe secure checkout",
+      "Added image optimization and lazy loading"
+    ],
+    "learnings": [
+      "E-commerce best practices",
+      "Payment gateway integration",
+      "Performance optimization techniques"
+    ],
+    "user": "507f1f77bcf86cd799439011"
+  },
+  {
+    "title": "Weather Forecast App",
+    "description": "Real-time weather forecasting application with interactive maps and alerts. Features include location-based weather, 7-day forecasts, and severe weather notifications.",
+    "shortDescription": "Real-time weather app with interactive maps and alerts",
+    "technologies": ["React", "Weather API", "Mapbox", "PWA", "Service Workers"],
+    "category": "Web Development",
+    "status": "Completed",
+    "featured": false,
+    "demoUrl": "https://weather-forecast.demo.com",
+    "githubUrl": "https://github.com/johndoe/weather-forecast",
+    "challenges": [
+      "Real-time data updates",
+      "Cross-browser compatibility",
+      "Offline functionality"
+    ],
+    "solutions": [
+      "Implemented WebSocket connections",
+      "Added progressive enhancement",
+      "Created comprehensive service worker"
+    ],
+    "learnings": [
+      "PWA development",
+      "Real-time data handling",
+      "Map integration techniques"
+    ],
+    "user": "507f1f77bcf86cd799439011"
+  },
+  {
+    "title": "Task Management System",
+    "description": "A collaborative task management tool for teams with real-time updates, drag-and-drop functionality, and comprehensive reporting features.",
+    "shortDescription": "Team collaboration tool with real-time updates and reporting",
+    "technologies": ["Vue.js", "Firebase", "Tailwind CSS", "Vuex", "Chart.js"],
+    "category": "Web Development",
+    "status": "In Progress",
+    "featured": false,
+    "demoUrl": "https://task-management.demo.com",
+    "githubUrl": "https://github.com/johndoe/task-management",
+    "challenges": [
+      "Real-time collaboration",
+      "Complex data relationships",
+      "User permission management"
+    ],
+    "solutions": [
+      "Firebase real-time database",
+      "Normalized data structure",
+      "Role-based access control"
+    ],
+    "learnings": [
+      "Vue.js ecosystem",
+      "Firebase integration",
+      "Team collaboration features"
+    ],
+    "user": "507f1f77bcf86cd799439011"
+  }
+]
